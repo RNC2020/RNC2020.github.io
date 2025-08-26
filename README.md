@@ -19,12 +19,21 @@
   </nav>
 
   <section id="about">
-    <h2>About Me</h2>
-    <p>
-      Write a short paragraph about who you are, your background, and your
-      professional interests. This is your elevator pitch.
-    </p>
-  </section>
+  <h2>About Me</h2>
+  <p>
+    Hi, I’m Ryan Chen, a Mechanical Engineer
+    with experience in project management, mechanical design, manufacturing, and leadership.
+    I enjoy solving complex problems and turning ideas into practical solutions.
+  </p>
+  <p>
+    I’ve worked on 3D modeling and design projects, process improvement initiatives, and testing and validation.
+    Some of my professional experiences include work with Whirlpool Corporation, Marathon Petroleum Corporation, and Procter & Gamble.
+  </p>
+  <p>
+    I’m passionate about innovation 
+    and I’m always eager to collaborate, learn, and contribute to impactful engineering solutions.
+  </p>
+</section>
 
   <section id="resume">
     <h2>Resume</h2>
@@ -49,13 +58,13 @@
 
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></p>
-    <p>GitHub: <a href="https://github.com/yourusername" target="_blank">github.com/yourusername</a></p>
+    <p>Email: <a href="mailto:ry_chen2020@icloud.com">ry_chen2020@icloud.com</a></p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/Ryan-Chen1" target="_blank">linkedin.com/in/Ryan-Chen1</a></p>
+  
   </section>
 
   <footer>
-    <p>&copy; 2025 Your Name. All rights reserved.</p>
+    <p>&copy; 2025 Ryan Chen. All rights reserved.</p>
   </footer>
 </body>
 </html>
