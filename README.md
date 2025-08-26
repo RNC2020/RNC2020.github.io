@@ -3,69 +3,11 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Ryan Chen | Portfolio</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      line-height: 1.6;
-      background: #f9f9f9;
-      color: #333;
-    }
-    header {
-      background: #1e3a8a;
-      color: white;
-      padding: 2rem 1rem;
-      text-align: center;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2.5rem;
-    }
-    header p {
-      margin: 0.5rem 0 0;
-      font-size: 1.2rem;
-    }
-    nav {
-      text-align: center;
-      background: #f1f1f1;
-      padding: 0.5rem;
-    }
-    nav a {
-      margin: 0 1rem;
-      text-decoration: none;
-      color: #1e3a8a;
-      font-weight: bold;
-    }
-    section {
-      padding: 2rem 10%;
-    }
-    h2 {
-      color: #1e3a8a;
-      border-bottom: 2px solid #1e3a8a;
-      display: inline-block;
-      margin-bottom: 1rem;
-    }
-    .project {
-      background: white;
-      padding: 1rem;
-      margin-bottom: 1rem;
-      border-radius: 8px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    }
-    footer {
-      text-align: center;
-      padding: 1rem;
-      background: #1e3a8a;
-      color: white;
-      margin-top: 2rem;
-    }
-  </style>
+ 
 </head>
 <body>
   <header>
-    <h1>Your Name</h1>
+    <h1>Ryan Chen</h1>
     <p>Mechanical Engineer | Problem Solver | Innovator</p>
   </header>
 
